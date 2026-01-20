@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-\[Your Step 3 Edit Here\]
+\[Hi I'm Vratin and I edited this\]
 
 This is a very simple repository for practicing with git and GitHub. git is a utility for *version control*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modifications by multiple collaborators. In this activity, we're going to focus on core git workflows for single-person projects. We may do a follow-up activity later in the quarter on workflows for collaborative projects. 
 
@@ -28,7 +28,7 @@ You now have a copy of this repository on GitHub. But how can you make changes? 
 
 In your local clone of the repository, open this file (`README.md`). At the top of the file, underneath the title, type 
 
-> I'm \[your name\] and I edited this file! 
+> I'm Vratin and I edited this file! 
 
 ## 4. Add and Commit
 
